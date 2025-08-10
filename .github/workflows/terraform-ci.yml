@@ -2,7 +2,7 @@ name: Terraform CI (fmt + validate)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "Dev" ]
   pull_request:
 
 jobs:
